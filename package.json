@@ -4,7 +4,6 @@
   "publishConfig": {
     "@shubhhampgit01:registry": "https://npm.pkg.github.com"
   },
-  "private": true,
   "type": "module",
   "files": [
     "dist",
