@@ -1,7 +1,10 @@
 {
-  "name": "npmtestapp",
+  "name": "@shubhhampgit01/npmtestapp",
+  "version": "0.1.0",
+  "publishConfig": {
+    "@shubhhampgit01:registry": "https://npm.pkg.github.com"
+  },
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "files": [
     "dist",
