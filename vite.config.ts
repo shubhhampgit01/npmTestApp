@@ -23,7 +23,7 @@ export default defineConfig((configEnv) => ({
   ],
   build: {
     lib: {
-      entry: resolve("src", "lib/index.ts"),
+      entry: resolve("src", "lib/index.tsx"),
       name: "npmtestapp",
       formats: ["es", "umd"],
       fileName: (format) => `npmtestapp.${format}.js`,

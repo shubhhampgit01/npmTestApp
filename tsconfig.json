@@ -45,7 +45,7 @@
      "declarationMap": true,
     "baseUrl": ".",
      "paths": {
-      "npm-test-app": [ "src/lib/index.ts" ]
+      "npm-test-app": [ "src/lib/index.tsx" ]
     },
     "typeRoots": [
       "node_modules/@types",
